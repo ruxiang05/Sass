@@ -37,4 +37,21 @@ Inheritance
   font-size: 32px;
   padding: 20px; }
 
+/*
+Operations
+ */
+.button, .jumbo-button, .light-button {
+  background: #990000;
+  padding: 10px;
+  color: yellow;
+  display: inline-block;
+  border-radius: 8px;
+  text-decoration: none; }
+
+.jumbo-button {
+  padding: 40px; }
+
+.light-button {
+  background: #e60000; }
+
 /*# sourceMappingURL=styles.css.map */
